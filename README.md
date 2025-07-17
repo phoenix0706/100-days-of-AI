@@ -12,8 +12,8 @@ Follow along and level up your AI knowledge.
 | Day | Topic                                    | LinkedIn Post Link                     |
 |-----|------------------------------------------|-----------------------------------------|
 | 1   | What is AI? A Science Behind the Buzz    | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofai-artificialintelligence-stanfordhai-activity-7350922300692574209-9i2t) |
-| 2   | AI vs ML vs DL: Key Differences          | (link)                                  |
-| 3   | ...                                      | (link)                                  |
+| 2   | AI vs ML vs DL: Key Differences          | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-artificialintelligence-activity-7351313428587667456-wfVj)                                  |
+| 3   | AI in 2025: 12 Real-World Applications You Should Know                                      | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-artificialintelligence-activity-7351665715063504897-UXSR)                                  |
 | 4   | ...                                      | (link)                                  |
 | ... | ...                                      | ...                                     |
 
