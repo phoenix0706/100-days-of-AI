@@ -1,7 +1,8 @@
 # 100 Days of AI
 
 📩 Follow me on [LinkedIn](https://www.linkedin.com/in/jyotinigam-phoenix/) to get notified when a new post drops.
-<img width="927" height="355" alt="image" src="https://github.com/user-attachments/assets/d9b7417a-2ea0-4fe0-af74-ead63e3cac28" />
+
+<img width="900" height="500" alt="White Minimalist Men's Fashion Twitter Header" src="https://github.com/user-attachments/assets/8eee308e-bf76-44ad-a0e8-06378c61a5de" />
 
 
 Welcome to **100 Days of AI** – a curated journey to learn, explore, and understand Artificial Intelligence from the ground up.
