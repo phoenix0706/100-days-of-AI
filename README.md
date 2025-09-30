@@ -37,7 +37,14 @@ Follow along and level up your AI knowledge.
 | 22|                    Neural Networks                 |               [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-aijourney-neuralnetworks-activity-7374523600206221312-NsN3)                                 | 
 | 23|                             Activation Functions        |                           [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-activationfunctions-activity-7374896394307948544-ZVRJ)                     | 
 | 24|                          Loss Functions: MSE & Cross-Entropy            |  [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-lossfunctions-deeplearning-activity-7375956277543366657-9GF1)                                              | 
-| 25|                                     |                                                | 
+| 25|                     Backpropagation: How Neural Nets Learn                 |     [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-backpropagation-deeplearning-activity-7376318195328217089-0qEE)                                        | 
+| 26|                                      Tensorflow vs Pytorch                 |  [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-tensorflow-pytorch-activity-7376680574763061248-h9E4 )            | 
+| 27|             CNNs: Visual Intuition                                         |   [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-cnn-computervision-activity-7377042962406502400-cjJK)                |   
+| 28 |       RNNs: Working with Sequences                    |       [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-rnn-sequencemodeling-activity-7377408260028600320-XiF2                 )           |  
+| 29  |      CNN vs RNN: Which to Use When?                               |   [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-cnnvsrnn-deeplearning-activity-7377778968965341184-Tlqs)                          | 
+| 30    |                            Build Your First Neural Network with TensorFlow       |  [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-tensorflow-neuralnetworks-activity-7378493968042471424-vuG3)                                 |      
+
+
 
 ---
 
