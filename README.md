@@ -43,6 +43,28 @@ Follow along and level up your AI knowledge.
 | 28 |       RNNs: Working with Sequences                    |       [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-rnn-sequencemodeling-activity-7377408260028600320-XiF2                 )           |  
 | 29  |      CNN vs RNN: Which to Use When?                               |   [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-cnnvsrnn-deeplearning-activity-7377778968965341184-Tlqs)                          | 
 | 30    |                            Build Your First Neural Network with TensorFlow       |  [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-tensorflow-neuralnetworks-activity-7378493968042471424-vuG3)                                 |      
+| 31  |           What is NLP? Why It’s Everywhere Today                               |             [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-nlp-languagemodels-activity-7378863275318378496-9ib)                |
+| 32  |          NLP Pipeline: From Raw Text to Meaning                                     |        [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-nlp-textprocessing-activity-7379244038362730496-oOA)                | 
+| 33  |       Word Embeddings: Word2Vec, GloVe, FastText                                         |          [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-wordembeddings-nlp-activity-7379603984598196224-yIbO)              | 
+| 34 |                       Transformers Made Simple: From Attention to GPT                        |           [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-transformers-selfattention-activity-7379951894926036992-ZIT8)             | 
+| 35  |    BERT: The Model That Taught Machines to Understand Context                                            |  [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-bert-transformers-activity-7380327718036561921-Y2pA)                      | 
+| 36  |                        How ChatGPT (and GPT-5) Actually Work — Simplified                        |               [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-gpt5-chatgpt-activity-7381042509466157056-QV01)         | 
+| 37  |                        Hands-on: Sentiment Analysis on Tweets                        |  [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-sentimentanalysis-nlp-activity-7381391619691839488-RdKq)                      | 
+| 38  |                  How Chatbots Understand You (and Why Yours Should Too)                              |    [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-chatbot-nlp-activity-7381752766077026304-8rbV)                    | 
+| 39  |                        When Language Models Learn Our Biases                       |          [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-aiethics-responsibleai-activity-7382125842983911424-kc-T)              | 
+| 40  |             What Is Computer Vision and Why It Matters                                   |    [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_computervision-artificialintelligence-deeplearning-activity-7382839607920390145-BKaO)                    | 
+| 41  |            Image Data Basics: How AI Learns to See the World                                   |      [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-imageprocessing-computervision-activity-7383583492808310784-ybz8)                  | 
+| 42 |               How AI Sees Images                                 |        [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-computervision-deeplearning-activity-7383941674915274752-HFjR)                | 
+| 43  |             How Machines Learned to See                                  |         [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-deeplearning-cnn-activity-7384307677541105664-0FUk)               | 
+| 44  |         From Seeing to Locating: How AI Detects Objects with YOLO, SSD & Faster R-CNN                                      |     [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-objectdetection-yolo-activity-7385421488046268416-1IGY)                   | 
+| 45  |                                               |                        | 
+| 46  |                                               |                        | 
+| 47  |                                               |                        | 
+| 48  |                                               |                        | 
+| 49  |                                               |                        | 
+| 50  |                                               |                        | 
+|   |                                               |                        | 
+|   |                                               |                        | 
 
 
 
