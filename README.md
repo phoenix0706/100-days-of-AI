@@ -57,16 +57,62 @@ Follow along and level up your AI knowledge.
 | 42 |               How AI Sees Images                                 |        [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-computervision-deeplearning-activity-7383941674915274752-HFjR)                | 
 | 43  |             How Machines Learned to See                                  |         [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-deeplearning-cnn-activity-7384307677541105664-0FUk)               | 
 | 44  |         From Seeing to Locating: How AI Detects Objects with YOLO, SSD & Faster R-CNN                                      |     [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-objectdetection-yolo-activity-7385421488046268416-1IGY)                   | 
-| 45  |                                               |                        | 
-| 46  |                                               |                        | 
-| 47  |                                               |                        | 
-| 48  |                                               |                        | 
-| 49  |                                               |                        | 
-| 50  |                                               |                        | 
-|   |                                               |                        | 
-|   |                                               |                        | 
-
-
+| 45  |               How AI Understands Every Pixel: Image Segmentation & U-Net                                |           [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-imagesegmentation-unet-activity-7387211314793889792-Cn3w)             | 
+| 46  |                Transfer Learning: How AI Learns from Its Own Past                               |              [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-transferlearning-computervision-activity-7387562864296964098-P4xs)          | 
+| 47  |                Train an Image Classifier in Minutes with Transfer Learning                                |       [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-transferlearning-imageclassification-activity-7387934179885273088-M4-t)              | 
+| 48  |              Make AI See: Introduction to OpenCV                                 |            [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-opencv-computervision-activity-7388662868982022144-3Nbj)        | 
+| 49  |                     GANs Simplified                          |      [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-gans-generativeai-activity-7393712815804624896-JD7A )                 | 
+| 50  |                           Autoencoders: How AI Learns to Rebuild What It Sees                    |    [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-autoencoders-deeplearning-activity-7394070613922992128-O4GC)                    | 
+|  51 |          Generative AI: How Machines Learned to Create                                     |       [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-generativeai-aitrends-activity-7394434393735565312-P1FQ)                 | 
+|  52 |            Large Language Models: How Machines Learn to Talk                                   |      [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-llms-generativeai-activity-7394800123379314688-A_C4)                  | 
+|  53 |                                               |                         |
+|  54 |                                               |                         |
+|  55 |                                               |                         |
+|  56 |                                               |                         |
+|  57 |                                               |                         |
+|  58 |                                               |                         |
+|  59 |                                               |                         |
+|  60 |                                               |                         |
+|  61 |                                               |                         |
+|  62 |                                               |                         |
+|  63 |                                               |                         |
+|  64 |                                               |                         |
+|  65 |                                               |                         |
+|  66 |                                               |                         |
+|  67 |                                               |                         |
+|  68 |                                               |                         |
+|  69 |                                               |                         |
+|  70 |                                               |                         |
+|  71 |                                               |                         |
+|  72 |                                               |                         |
+|  73 |                                               |                         |
+|  74 |                                               |                         |
+|  75 |                                               |                         |
+|  76 |                                               |                         |
+|  77 |                                               |                         |
+|  78 |                                               |                         |
+|  79 |                                               |                         |
+|  80 |                                               |                         |
+|  81 |                                               |                         |
+|  82 |                                               |                         |
+|  83 |                                               |                         |
+|  84 |                                               |                         |
+|  85 |                                               |                         |
+|  86 |                                               |                         |
+|  87 |                                               |                         |
+|  88 |                                               |                         |
+|  89 |                                               |                         |
+|  90 |                                               |                         |
+|  91 |                                               |                         |
+|  92 |                                               |                         |
+|  93 |                                               |                         |
+|  94 |                                               |                         |
+|  95 |                                               |                         |
+|  96 |                                               |                         |
+|  97 |                                               |                         |
+|  98 |                                               |                         |
+|  99 |                                               |                         |
+|  100 |                                               |                         |
 
 ---
 
