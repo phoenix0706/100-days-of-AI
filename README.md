@@ -65,15 +65,15 @@ Follow along and level up your AI knowledge.
 | 50  |                           Autoencoders: How AI Learns to Rebuild What It Sees                    |    [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-autoencoders-deeplearning-activity-7394070613922992128-O4GC)                    | 
 |  51 |          Generative AI: How Machines Learned to Create                                     |       [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-generativeai-aitrends-activity-7394434393735565312-P1FQ)                 | 
 |  52 |            Large Language Models: How Machines Learn to Talk                                   |      [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-llms-generativeai-activity-7394800123379314688-A_C4)                  | 
-|  53 |                                               |                         |
-|  54 |                                               |                         |
-|  55 |                                               |                         |
-|  56 |                                               |                         |
-|  57 |                                               |                         |
-|  58 |                                               |                         |
-|  59 |                                               |                         |
-|  60 |                                               |                         |
-|  61 |                                               |                         |
+|  53 |         Diffusion Models: How AI Creates Images From Noise                                      |               [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-diffusionmodels-generativeai-activity-7400268198346158080-HLLu)          |
+|  54 |            Prompt Engineering 101: Stop Guessing, Start Using Frameworks                                   |    [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-promptengineering-generativeai-activity-7400986708592381952-gxeC)                     |
+|  55 |           Retrieval-Augmented Generation (RAG) Explained Simply                                    |               [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-rag-generativeai-activity-7401330081299877888-PaM4)          |
+|  56 |    LangChain: Turning LLMs into Real Applications                                           |   [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-langchain-aiengineering-activity-7403160350172647427-Ijuy)                      |
+|  57 |                 Beginner‑Friendly GenAI Projects You Can Actually Build                              |                   [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-aiprojects-langchain-activity-7404947248423284736-5rhW)      |
+|  58 |                       Vector Databases: How AI Remembers What Matters                        |    [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-vectordatabases-pinecone-activity-7405318160138039296-SMlb)   |
+|  59 |    The Future of Generative AI: Trends Shaping 2025 and Beyond | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-generativeai-aitrends-activity-7405680133040185345-AlWO)                      |
+|  60 |                         What Are AI Agents (And 4 Patterns You Should Know)?                      |        [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-day60-aiagents-activity-7406027963034648576-CmnL)                 |
+|  61 |             Why MLOps Matters (and Why ML Isn’t 10X Faster Yet)                                  |       [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-mlops-devops-activity-7406389577189425152-_Dmg)                  |
 |  62 |                                               |                         |
 |  63 |                                               |                         |
 |  64 |                                               |                         |
