@@ -111,7 +111,7 @@ Follow along and level up your AI knowledge.
 | 97  | How to Make Your First Open Source Contribution                               | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-opensource-machinelearning-activity-7472718828666396672-iV5Z)           |
 | 98  | The State of AI in 2026                                                       | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-artificialintelligence-activity-7473092671562137600-rIOO)               |
 | 99  | Where to Go After Learning AI                                                 | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-artificialintelligence-activity-7473458005611675648-M4eo)               |
-| 100 |                                                                               |                                                                                                                                                            |
+| 100 | We Made It                                                                    | [View Post](https://www.linkedin.com/posts/jyotinigam-phoenix_100daysofaiwithjyoti-artificialintelligence-activity-7474052876072427520-El8h)               |
 
 ---
 
